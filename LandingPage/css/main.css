@@ -6,7 +6,7 @@ body{
 	color: #371C1C; /*changes color of the whole text*/
 	margin-top: 0;
 	background: -webkit-linear-gradient(top, #b2aeaf 0%,#86aecc 100%); /* Chrome10-25,Safari5.1-6 */
-	 
+
 }
 #wrapper{
 	width:960px;
